@@ -10,7 +10,7 @@
             <div class="col-md-8">
                 <h4>Hello {{ Auth::user()->name }}</h4>
 
-                <form action="{{route('food.upload') }}" method="POST"> "@csrf"
+                <form action="{{route('food.upload') }}" method="POST" enctype="multipart/form-data"> "@csrf"
 
                     <div class="card">
                         <div class="card-body">
