@@ -300,7 +300,7 @@
                         <h3 class="sub-title">Why choose us</h3>
                         <h2 class="title">Why we are the best</h2>
                         <p>A, blandit euismod ullamcorper vestibulum enim habitasse. Ultrices tincidunt scelerisque elit enim. A neque malesuada in tortor eget justo mauris nec dolor. Consequat risus vitae, ac ac et preparation. He wanted to serve burgers, fries and beverages that tasted .</p>
-                    </div>
+                    </div>abo
                     <div class="row">
                         <div class="col-sm-6">
                             <div class="single-about-wrap">
