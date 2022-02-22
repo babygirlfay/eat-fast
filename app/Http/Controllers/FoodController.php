@@ -19,7 +19,7 @@ class FoodController extends Controller
         $ext = $request->file('image')->getClientOriginalExtension();
         $filename = $request->name . time() . '.' . $ext;
         $request->file('image')->storeAs('public/foods', $filename);
-        
+
         $food = new Food();
         $food->name = $request->name;
         $food->price = $request->price;
@@ -28,11 +28,14 @@ class FoodController extends Controller
         $food->image = $filename;
         $food->save();
 
-
-
-
         return back();
         //
 
+    }
+    public function allFood()
+    {
+        $foods = Food::where('user_id','=', Auth::user()->id  )->latest()->get();
+
+        return view('all-foods', compact('foods'));
     }
 }

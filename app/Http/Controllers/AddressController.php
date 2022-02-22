@@ -25,5 +25,11 @@ class AddressController extends Controller
 
         return back();
     }
+    public function allAddress()
+    {
+        $address = Address::where('user_id','=', Auth::user()->id  )->get();
+
+        return view('all-address', compact('address'));
+    }
     //
 }

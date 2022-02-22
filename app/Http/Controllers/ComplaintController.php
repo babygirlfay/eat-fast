@@ -10,7 +10,7 @@ class ComplaintController extends Controller
 {
     public function addComplaint()
     {
-     return view('add-complaint');
+        return view('add-complaint');
     }
     public function uploadComplaint(Request $request)
     {
@@ -22,7 +22,12 @@ class ComplaintController extends Controller
         $complaint->save();
         return back();
     }
+    public function allComplaint()
+    {
+        $foods = Complaint::where('user_id','=', Auth::user()->id  )->latest()->get();
 
+        return view('all-complaint', compact('complaints'));
+    }
 
     //
 }

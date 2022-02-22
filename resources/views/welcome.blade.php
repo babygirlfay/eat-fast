@@ -22,8 +22,8 @@
             </div>
         </div>
     </section>
-    <!-- Banner Area End --> 
-    
+    <!-- Banner Area End -->
+
     <!-- category Area Start-->
     <section class="category-area">
         <div class="container">
@@ -31,7 +31,7 @@
                 <div class="col-lg-12 align-self-center">
                     <ul class="category-menu">
                         <li class="category-wrap"><a href="shop.html"><img src="/assets/img/category/1.png" alt="category">Ramen</a>
-                            
+
                         </li>
                         <li class="category-wrap"><a href="#"><img src="/assets/img/category/2.png" alt="category">Pizza</a>
                             <div class="category-sub-menu">
@@ -42,8 +42,8 @@
                                                 <img src="/assets/img/product/pizza/1.png" alt="img">
                                             </div>
                                             <div class="wrap-details">
-                                                <h6><a href="shop.html">Margherita Pizza</a></h6>                          
-                                            </div> 
+                                                <h6><a href="shop.html">Margherita Pizza</a></h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-6">
@@ -52,8 +52,8 @@
                                                 <img src="/assets/img/product/pizza/2.png" alt="img">
                                             </div>
                                             <div class="wrap-details">
-                                                <h6><a href="shop.html">Maxican Pizza Test Better</a></h6>                          
-                                            </div> 
+                                                <h6><a href="shop.html">Maxican Pizza Test Better</a></h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-6">
@@ -62,8 +62,8 @@
                                                 <img src="/assets/img/product/pizza/3.png" alt="img">
                                             </div>
                                             <div class="wrap-details">
-                                                <h6><a href="shop.html">Margherita Pizza</a></h6>                          
-                                            </div> 
+                                                <h6><a href="shop.html">Margherita Pizza</a></h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-6">
@@ -81,8 +81,8 @@
                                                 <img src="/assets/img/product/burger/1.png" alt="img">
                                             </div>
                                             <div class="wrap-details">
-                                                <h6><a href="shop.html">Patty Buns Burgers</a></h6>                          
-                                            </div> 
+                                                <h6><a href="shop.html">Patty Buns Burgers</a></h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-6">
@@ -91,8 +91,8 @@
                                                 <img src="/assets/img/product/burger/1.png" alt="img">
                                             </div>
                                             <div class="wrap-details">
-                                                <h6><a href="shop.html">Maxican Pizza Test Better</a></h6>                          
-                                            </div> 
+                                                <h6><a href="shop.html">Maxican Pizza Test Better</a></h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-6">
@@ -101,31 +101,31 @@
                                                 <img src="/assets/img/product/burger/1.png" alt="img">
                                             </div>
                                             <div class="wrap-details">
-                                                <h6><a href="shop.html">Margherita Pizza</a></h6>                          
-                                            </div> 
+                                                <h6><a href="shop.html">Margherita Pizza</a></h6>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-3 col-6">
                                         <a href="#"><img src="/assets/img/ad.png" alt="img"></a>
                                     </div>
                                 </div>
-                            </div>                            
+                            </div>
                         </li>
                         <li class="category-wrap"><a href="shop.html"><img src="/assets/img/category/4.png" alt="category">French fries</a>
-                            
+
                         </li>
                         <li class="category-wrap"><a href="shop.html"><img src="/assets/img/category/5.png" alt="category">Fast food</a>
-                            
+
                         </li>
                         <li class="category-wrap"><a href="shop.html"><img src="/assets/img/category/6.png" alt="category">Soft drinks</a>
-                            
+
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
     </section>
-    <!-- category Area End --> 
+    <!-- category Area End -->
 
     <!-- offer Area Start-->
     <section class="offer-area pd-top-120 pd-bottom-90">
@@ -166,7 +166,7 @@
             </div>
         </div>
     </section>
-    <!-- offer Area End --> 
+    <!-- offer Area End -->
 
     <!-- populer Area Start-->
     <section class="populer-area pd-bottom-90">
@@ -201,11 +201,11 @@
                                     (200)
                                 </div>
                                 <h6 class="price">$17.00</h6>
-                            </div>                            
+                            </div>
                         </div>
                         <div class="btn-area">
-                            <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                        </div> 
+                            <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -231,8 +231,8 @@
                                 <h6 class="price">$29.00</h6>
                             </div>
                             <div class="btn-area">
-                                <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                            </div>                                               
+                                <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -257,11 +257,11 @@
                                     (462)
                                 </div>
                                 <h6 class="price">$27.00</h6>
-                            </div>                            
+                            </div>
                         </div>
                         <div class="btn-area">
-                            <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                        </div> 
+                            <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -388,11 +388,11 @@
                                             (200)
                                         </div>
                                         <h6 class="price">$17.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -418,8 +418,8 @@
                                         <h6 class="price">$29.00</h6>
                                     </div>
                                     <div class="btn-area">
-                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                    </div>                                               
+                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -444,11 +444,11 @@
                                             (462)
                                         </div>
                                         <h6 class="price">$27.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -476,11 +476,11 @@
                                             (200)
                                         </div>
                                         <h6 class="price">$17.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -506,8 +506,8 @@
                                         <h6 class="price">$29.00</h6>
                                     </div>
                                     <div class="btn-area">
-                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                    </div>                                               
+                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -532,11 +532,11 @@
                                             (462)
                                         </div>
                                         <h6 class="price">$27.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -560,11 +560,11 @@
                                             (462)
                                         </div>
                                         <h6 class="price">$27.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -588,11 +588,11 @@
                                             (200)
                                         </div>
                                         <h6 class="price">$37.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -616,11 +616,11 @@
                                             (928)
                                         </div>
                                         <h6 class="price">$35.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -648,11 +648,11 @@
                                             (200)
                                         </div>
                                         <h6 class="price">$17.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -678,8 +678,8 @@
                                         <h6 class="price">$29.00</h6>
                                     </div>
                                     <div class="btn-area">
-                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                    </div>                                               
+                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -704,11 +704,11 @@
                                             (462)
                                         </div>
                                         <h6 class="price">$27.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -736,11 +736,11 @@
                                             (200)
                                         </div>
                                         <h6 class="price">$17.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -766,8 +766,8 @@
                                         <h6 class="price">$29.00</h6>
                                     </div>
                                     <div class="btn-area">
-                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                    </div>                                               
+                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -792,11 +792,11 @@
                                             (462)
                                         </div>
                                         <h6 class="price">$27.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -824,11 +824,11 @@
                                             (200)
                                         </div>
                                         <h6 class="price">$17.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -854,8 +854,8 @@
                                         <h6 class="price">$29.00</h6>
                                     </div>
                                     <div class="btn-area">
-                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                    </div>                                               
+                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -880,11 +880,11 @@
                                             (462)
                                         </div>
                                         <h6 class="price">$27.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -912,11 +912,11 @@
                                             (200)
                                         </div>
                                         <h6 class="price">$17.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6">
@@ -942,8 +942,8 @@
                                         <h6 class="price">$29.00</h6>
                                     </div>
                                     <div class="btn-area">
-                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                    </div>                                               
+                                        <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -968,11 +968,11 @@
                                             (462)
                                         </div>
                                         <h6 class="price">$27.00</h6>
-                                    </div>                            
+                                    </div>
                                 </div>
                                 <div class="btn-area">
-                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>         
-                                </div> 
+                                    <a class="btn btn-secondary" href="single-product.html">CHOOSE OPTIONS </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -1059,13 +1059,13 @@
                                     <i class="ri-price-tag-3-fill"></i>Burgar
                                 </a>
                             </span>
-                            <h5><a href="blog-details.html">Greek yogurt breakfast bowls with toppings</a></h5> 
+                            <h5><a href="blog-details.html">Greek yogurt breakfast bowls with toppings</a></h5>
                             <div class="wrap-hover-area">
                                 <p> It with just a touch of sauce. saucy riff, more in the style of takeout American Chinese kung pao. The sauce makes it perfect for eating with rice.
-                                </p> 
-                                <a class="link-btn" href="blog-details.html">Read More</a> 
-                            </div>                       
-                        </div> 
+                                </p>
+                                <a class="link-btn" href="blog-details.html">Read More</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -1083,13 +1083,13 @@
                                 </a>
                             </span>
                             <h5><a href="blog-details.html">Broad beans, tomato, garlic & cheese bruschetta
-                            </a></h5> 
+                            </a></h5>
                             <div class="wrap-hover-area">
                                 <p> It with just a touch of sauce. saucy riff, more in the style of takeout American Chinese kung pao. The sauce makes it perfect for eating with rice.
-                                </p> 
-                                <a class="link-btn" href="blog-details.html">Read More</a> 
-                            </div>                       
-                        </div> 
+                                </p>
+                                <a class="link-btn" href="blog-details.html">Read More</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -1107,13 +1107,13 @@
                                 </a>
                             </span>
                             <h5><a href="blog-details.html">Make authentic Italian margherita pizza at home
-                            </a></h5> 
+                            </a></h5>
                             <div class="wrap-hover-area">
                                 <p> It with just a touch of sauce. saucy riff, more in the style of takeout American Chinese kung pao. The sauce makes it perfect for eating with rice.
-                                </p> 
-                                <a class="link-btn" href="blog-details.html">Read More</a> 
-                            </div>                       
-                        </div> 
+                                </p>
+                                <a class="link-btn" href="blog-details.html">Read More</a>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
