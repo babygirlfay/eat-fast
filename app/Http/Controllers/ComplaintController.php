@@ -24,7 +24,7 @@ class ComplaintController extends Controller
     }
     public function allComplaint()
     {
-        $foods = Complaint::where('user_id','=', Auth::user()->id  )->latest()->get();
+        $complaints = Complaint::where('user_id','=', Auth::user()->id  )->latest()->get();
 
         return view('all-complaint', compact('complaints'));
     }
